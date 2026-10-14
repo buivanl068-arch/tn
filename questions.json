@@ -1,1 +1,1416 @@
-
+[
+  {
+    "question": "Nội dung của môn Giáo dục quốc phòng và an ninh trình độ Cao đẳng?",
+    "options": {
+      "a": "Hiểu biết chung về quân, binh chủng",
+      "b": "Nghiên cứu về công tác quốc phòng và an ninh",
+      "c": "Công tác quốc phòng",
+      "d": "Chiến thuật, kỹ thuật"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Nội dung của môn Giáo dục quốc phòng và an ninh trình độ Cao đẳng?",
+    "options": {
+      "a": "Hiểu biết chung về quân, binh chủng",
+      "b": "Nghiên cứu về đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam",
+      "c": "Công tác quốc phòng",
+      "d": "Chiến thuật, kỹ thuật"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Nội dung của môn Giáo dục quốc phòng và an ninh trình độ Cao đẳng?",
+    "options": {
+      "a": "Đường lối quốc phòng",
+      "b": "Nghiên cứu về quân sự chung",
+      "c": "Công tác quốc phòng",
+      "d": "Chiến thuật, kỹ thuật"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Nội dung nghiên cứu về đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam?",
+    "options": {
+      "a": "Xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc",
+      "b": "Những kiến thức cơ bản về đội ngũ trong đơn vị",
+      "c": "Lịch sử truyền thống các quân binh chủng",
+      "d": "Đường lối quan điểm của Đảng, chính sách, pháp luật của nhà nước Việt Nam về bảo vệ an ninh chính trị, kinh tế, văn hóa, tư tưởng"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Nội dung nghiên cứu về đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam?",
+    "options": {
+      "a": "Chiến thuật trung đội bộ binh tiến công, phòng ngự",
+      "b": "Những vấn đề cơ bản về bảo vệ an ninh quốc gia",
+      "c": "Xây dựng lực lượng dân quân tự vệ",
+      "d": "Chiến tranh nhân dân bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Nội dung nghiên cứu về đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam?",
+    "options": {
+      "a": "Quan điểm cơ bản của Chủ nghĩa Mác- Lênin, tư tưởng Hồ Chí Minh về chiến tranh, quân đội và bảo vệ Tổ quốc",
+      "b": "Phòng, chống chiến lược “Diễn biến hòa bình”",
+      "c": "Quân sự chung, chiến thuật, kỹ thuật bắn súng ngắn và sử dụng lựu đạn",
+      "d": "Xây dựng lực lượng vũ trang nhân dân Việt Nam"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Nội dung nghiên cứu về đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam?",
+    "options": {
+      "a": "Xây dựng nền quốc phòng toàn dân, an ninh Nhân dân bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa",
+      "b": "Xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc",
+      "c": "Phòng, chống chiến lược “Diễn biến hòa bình”",
+      "d": "Kết hợp phát triển kinh tế - xã hội với tăng cường, củng cố quốc phòng và an ninh"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Nội dung nghiên cứu về công tác quốc phòng và an ninh?",
+    "options": {
+      "a": "Phòng, chống chiến lược “Diễn biến hòa bình”, bạo loạn lật đổ của các thế lực thù địch chống phá cách mạng Việt Nam",
+      "b": "Xây dựng lực lượng vũ trang nhân dân Việt Nam"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Nội dung nghiên cứu về công tác quốc phòng và an ninh?",
+    "options": {
+      "a": "Xây dựng lực lượng dân quân tự vệ, lực lượng dự bị động viên và động viên công nghiệp quốc phòng",
+      "b": "Kết hợp phát triển kinh tế - xã hội với tăng cường, củng cố quốc phòng và an ninh",
+      "c": "Chiến tranh nhân dân bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa",
+      "d": "Những kiến thức cơ bản về đội ngũ trong đơn vị"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Nội dung nghiên cứu về công tác quốc phòng và an ninh?",
+    "options": {
+      "a": "Xây dựng và bảo vệ chủ quyền lãnh thổ, biên giới quốc gia",
+      "b": "Những vấn đề cơ bản về bảo vệ an ninh quốc gia",
+      "c": "Phòng chống địch tiến công bằng vũ khí công nghệ cao",
+      "d": "Kết hợp phát triển kinh tế, xã hội với tăng cường quốc phòng, an ninh và đối ngoại"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Nội dung nghiên cứu về công tác quốc phòng và an ninh?",
+    "options": {
+      "a": "Một số nội dung cơ bản về dân tộc, tôn giáo, đấu tranh phòng chống các thế lực thù địch lợi dụng vấn đề dân tộc, tôn giáo chống phá cách mạng Việt Nam",
+      "b": "Chiến thuật trung đội bộ binh tiến công, phòng ngự",
+      "c": "Những vấn đề cơ bản về lịch sử nghệ thuật quân sự Việt Nam",
+      "d": "Xây dựng nền quốc phòng toàn dân"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Nội dung nghiên cứu về công tác quốc phòng và an ninh?",
+    "options": {
+      "a": "Những vấn đề cơ bản về phòng chống tội phạm và tệ nạn xã hội",
+      "b": "Những kiến thức cơ bản về đội ngũ trong đơn vị",
+      "c": "Xây dựng lực lượng vũ trang nhân dân Việt Nam",
+      "d": "Thực hành sử dụng một số loại lựu đạn Việt Nam"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Nội dung nghiên cứu về quân sự chung?",
+    "options": {
+      "a": "Lịch sử truyền thống các quân binh chủng",
+      "b": "Đội ngũ đơn vị",
+      "c": "Xây dựng lực lượng dân quân tự vệ",
+      "d": "Những vấn đề cơ bản về đấu tranh phòng chống tội phạm và tệ nạn xã hội"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Nội dung nghiên cứu về quân sự chung?",
+    "options": {
+      "a": "Xây dựng nền quốc phòng toàn dân",
+      "b": "Giới thiệu và hướng dẫn kỹ thuật sử dụng một số loại vũ khí bộ binh",
+      "c": "Phòng chống địch tiến công bằng vũ khí công nghệ cao",
+      "d": "Lịch sử truyền thống các quân binh chủng"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Nội dung nghiên cứu về quân sự chung?",
+    "options": {
+      "a": "An ninh phi truyền thống và đấu tranh phòng chống các đe dọa an ninh phi truyền thống ở Việt Nam",
+      "b": "Kỹ thuật cấp cứu và chuyển thương",
+      "c": "Xây dựng lực lượng dân quân tự vệ",
+      "d": "Xây dựng lực lượng Vũ trang nhân dân Việt Nam"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Nội dung nghiên cứu về đội ngũ đơn vị?",
+    "options": {
+      "a": "Đội hình tiểu đội",
+      "b": "Đội hình đại đội",
+      "c": "Đội hình đoàn",
+      "d": "Xây dựng lực lượng dân quân tự vệ"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Nội dung nghiên cứu về đội ngũ đơn vị?",
+    "options": {
+      "a": "Đội hình trung đội",
+      "b": "Đội hình trung đoàn"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Nội dung nghiên cứu về kỹ thuật cấp cứu và chuyển thương?",
+    "options": {
+      "a": "Hà hơi thổi ngạt",
+      "b": "Kỹ thuật chữa vết thương",
+      "c": "Kỹ thuật trị thương",
+      "d": "Kỹ thuật chuyển thương"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Nội dung nghiên cứu về kỹ thuật cấp cứu và chuyển thương?",
+    "options": {
+      "a": "Hà hơi thổi ngạt",
+      "b": "Kỹ thuật chữa vết thương",
+      "c": "Kỹ thuật trị thương",
+      "d": "Hô hấp nhân tạo"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Nội dung nghiên cứu về kỹ thuật cấp cứu và chuyển thương?",
+    "options": {
+      "a": "Hà hơi thổi ngạt",
+      "b": "Kỹ thuật chữa vết thương",
+      "c": "Kỹ thuật trị thương",
+      "d": "Cố định tạm thời xương gãy"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Nội dung nghiên cứu về kỹ thuật cấp cứu và chuyển thương?",
+    "options": {
+      "a": "Hà hơi thổi ngạt",
+      "b": "Kỹ thuật chữa vết thương",
+      "c": "Kỹ thuật trị thương",
+      "d": "Cầm máu tạm thời"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Chương trình môn Giáo dục quốc phòng và an ninh gồm có mấy học phần?",
+    "options": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "6"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Thông tư số 10/2018/TT-BLĐTBXH ngày 26/9/2018 của Bộ trưởng Bộ Lao động – Thương binh và Xã hội quy định nội dung gì?",
+    "options": {
+      "a": "Quy định chương trình, tổ chức dạy học và đánh giá kết quả học tập môn giáo dục quốc phòng và an ninh thuộc khối các môn học trong chương trình đào tạo trình độ trung cấp, trình độ cao đẳng",
+      "b": "Ban hành chương trình giáo dục quốc phòng và an ninh trong trường trung cấp sư phạm, cao đẳng sư phạm và cơ sở giáo dục đại học",
+      "c": "Ban hành chương trình giáo dục quốc phòng và an ninh trong trường trung cấp sư phạm",
+      "d": "Quy định tổ chức dạy, học và đánh giá kết quả học tập môn Giáo dục quốc phòng và an ninh"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Thông tư Liên tịch số 18/2015/TTLT-BGDĐT-BLĐTBXH ngày 08/9/2015 của Bộ Giáo dục và Đào tạo và Bộ Lao động – Thương binh và Xã hội quy định nội dung gì?",
+    "options": {
+      "a": "Luật Giáo dục quốc phòng - an ninh",
+      "b": "Quy định chi tiết và biện pháp thi hành Luật Giáo dục quốc phòng và an ninh",
+      "c": "Ban hành chương trình giáo dục quốc phòng và an ninh trong trường trung cấp sư phạm",
+      "d": "Quy định tổ chức dạy, học và đánh giá kết quả học tập môn Giáo dục quốc phòng và an ninh trong các cơ sở giáo dục nghề nghiệp, cơ sở giáo dục đại học"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Chương trình giáo dục quốc phòng và an ninh cho Sinh viên trình độ cao đẳng học gồm có mấy học phần?",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Chương trình giáo dục quốc phòng và an ninh cho Sinh viên trình độ cao đẳng học gồm mấy tiết?",
+    "options": {
+      "a": "65",
+      "b": "75",
+      "c": "85",
+      "d": "95"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Học phần I: Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam có mấy tiết?",
+    "options": {
+      "a": "21",
+      "b": "22",
+      "c": "23",
+      "d": "24"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Học phần II: Công tác quốc phòng và an ninh gồm có mấy tiết?",
+    "options": {
+      "a": "20",
+      "b": "21",
+      "c": "22",
+      "d": "23"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Học phần III: Quân sự chung gồm có mấy tiết?",
+    "options": {
+      "a": "30",
+      "b": "31",
+      "c": "32",
+      "d": "33"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Nội dung nghiên cứu về sử dụng một số loại vũ khí bộ binh?",
+    "options": {
+      "a": "Kỹ thuật bắn súng tiểu liên AK",
+      "b": "Kỹ thuật cấp cứu và chuyển thương",
+      "c": "Kỹ thuật bắn súng trung liên RPD",
+      "d": "Kỹ thuật sử dụng lựu đạn khói"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Chủ tịch Hồ Chí Minh nói: “Các vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau giữ lấy nước” vào ngày tháng năm nào?",
+    "options": {
+      "a": "19-9-1954",
+      "b": "18-9-1954",
+      "c": "17-9-1954",
+      "d": "20-9-1954"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Câu nói: “Các vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau giữ lấy nước”, Bác Hồ nói tại đâu trong khu di tích Đền Hùng?",
+    "options": {
+      "a": "Đền Giếng",
+      "b": "Đền Hạ",
+      "c": "Đền Trung",
+      "d": "Đền Thượng"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Câu nói: “Các vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau giữ lấy nước”, Bác Hồ căn dặn đơn vị nào?",
+    "options": {
+      "a": "Sư đoàn 304",
+      "b": "Sư đoàn 308",
+      "c": "Sư đoàn 312",
+      "d": "Sư đoàn 390"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Phương hướng xây dựng Quân đội nhân dân và Công an nhân dân trong giai đoạn hiện nay?",
+    "options": {
+      "a": "Cách mạng, chính quy, tinh nhuệ, từng bước hiện đại",
+      "b": "Cách mạng, vững mạnh, chính quy và hiện đại"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Một trong những quan điểm cơ bản của Đảng về bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng?",
+    "options": {
+      "a": "Cách mạng, chính quy, tinh nhuệ, từng bước hiện đại",
+      "b": "Xây dựng nền quốc phòng toàn dân, nền an ninh nhân dân vững mạnh toàn diện; bảo vệ vững chắc Tổ quốc, độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ",
+      "c": "Với phương châm Việt Nam muốn là bạn, là đối tác tin cậy của các nước trong cộng đồng quốc tế, Đảng ta chủ trương mở rộng các quan hệ đối ngoại, chủ động hội nhập quốc tế",
+      "d": "Bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng là nhiệm vụ chiến lược vừa thường xuyên lâu dài, vừa khẩn trương cấp bách trong cục diện thế giới và nước ta ngày nay"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Một trong những quan điểm cơ bản của Đảng về bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng?",
+    "options": {
+      "a": "Thường xuyên cảnh giác, kịp thời đập tan mọi âm mưu và hành động xâm phạm độc lập, chủ quyền, toàn vẹn lãnh thổ Tổ quốc phạm nguy hiểm và các tệ nạn xã hội",
+      "b": "Bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng là bảo vệ Đảng, Nhà nước, nhân dân và chế độ xã hội chủ nghĩa; bảo vệ an ninh chính trị, an ninh kinh tế, an ninh tư tưởng văn hóa và an ninh xã hội.",
+      "c": "Tăng cường công tác giáo dục nhận thức về quốc phòng an ninh đối với đội ngũ công chức",
+      "d": "Bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng là nhiệm vụ chiến lược vừa thường xuyên lâu dài, vừa khẩn trương cấp bách trong cục diện thế giới và nước ta ngày nay"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Một trong những quan điểm cơ bản của Đảng về bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng?",
+    "options": {
+      "a": "Cách mạng, chính quy, tinh nhuệ, từng bước hiện đại",
+      "b": "Bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng là duy trì trật tự, kỷ cương, an toàn xã hội; giữ vững ổn định chính trị của đất nước, ngăn ngừa, đẩy lùi và làm thất bại mọi âm mưu, hoạt động chống phá, thù địch, không để bị động, bất ngờ",
+      "c": "Tăng cường công tác giáo dục nhận thức về quốc phòng an ninh đối với đội ngũ công chức",
+      "d": "Bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng là nhiệm vụ chiến lược vừa thường xuyên lâu dài, vừa khẩn trương cấp bách trong cục diện thế giới và nước ta ngày nay"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Một trong những quan điểm cơ bản của Đảng về bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng?",
+    "options": {
+      "a": "Nâng cao chất lượng tổng hợp, sức chiến đấu để lực lượng vũ trang thật sự là lực lượng chính trị trong sạch, vững mạnh, tuyệt đối trung thành với tổ quốc",
+      "b": "Hoàn thiện hệ thống pháp luật về bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng là thể chế hóa các chủ trương, chính sách của Đảng về xây dựng nền quốc phòng toàn dân và an ninh nhân dân, tăng cường quản lý Nhà nước về quốc phòng và an ninh",
+      "c": "Sự nghiệp công nghiệp hóa, hiện đại hóa đất nước đang đặt ra những nhiệm vụ hết sức nặng nề",
+      "d": "Bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng là nhiệm vụ chiến lược vừa thường xuyên lâu dài, vừa khẩn trương cấp bách trong cục diện thế giới và nước ta ngày nay"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Một trong những quan điểm cơ bản của Đảng về bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng?",
+    "options": {
+      "a": "Nâng cao chất lượng tổng hợp, sức chiến đấu để lực lượng vũ trang thật sự là lực lượng chính trị trong sạch, vững mạnh, tuyệt đối trung thành với tổ quốc",
+      "b": "Thường xuyên chăm lo xây dựng Đảng, tăng cường sự lãnh đạo của Đảng đối với quân đội và công an, đối với sự nghiệp cùng cố quốc phòng và an ninh",
+      "c": "Sự nghiệp công nghiệp hóa, hiện đại hóa đất nước đang đặt ra những nhiệm vụ hết sức nặng nề"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Một trong những nhiệm vụ bảo vệ an ninh chính trị, kinh tế, văn hóa, tư tưởng?",
+    "options": {
+      "a": "Bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng là duy trì trật tự, kỷ cương, an toàn xã hội",
+      "b": "Thể chế hóa các chủ trương, chính sách của Đảng về xây dựng nền quốc phòng toàn dân và an ninh nhân dân, tăng cường quản lý Nhà nước về quốc phòng và an ninh",
+      "c": "Tiếp tục đổi mới và nâng cao chất lượng công tác giáo dục, bồi dưỡng kiến thức về bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng",
+      "d": "Kết hợp chặt chẽ hai nhiệm vụ chiến lược của cách mạng Việt Nam là xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc xã hội chủ nghĩa"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Một trong những nhiệm vụ bảo vệ an ninh chính trị, kinh tế, văn hóa, tư tưởng?",
+    "options": {
+      "a": "Bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng là duy trì trật tự, kỷ cương, an toàn xã hội",
+      "b": "Thể chế hóa các chủ trương, chính sách của Đảng về xây dựng nền quốc phòng toàn dân và an ninh nhân dân, tăng cường quản lý Nhà nước về quốc phòng và an ninh",
+      "c": "Kết hợp phát triển kinh tế - xã hội với tăng cường bảo vệ an ninh chính trị, văn hóa tư tưởng trên cơ sở phát huy mọi tiềm năng của đất nước",
+      "d": "Kết hợp chặt chẽ hai nhiệm vụ chiến lược của cách mạng Việt Nam là xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc xã hội chủ nghĩa"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Một trong những nhiệm vụ bảo vệ an ninh chính trị, kinh tế, văn hóa, tư tưởng?",
+    "options": {
+      "a": "Sức mạnh bảo vệ Tổ quốc là sức mạnh tổng hợp của khối đại đoàn kết toàn dân, của cả hệ thống chính trị",
+      "b": "Bảo vệ an ninh tư tưởng là một nội dung quan trọng của bảo vệ văn hóa và chế độ xã hội chủ nghĩa",
+      "c": "Xây dựng Quân đội nhân dân và Công an nhân dân cách mạng, chính quy, tinh nhuệ, từng bước hiện đại",
+      "d": "Bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng là nhiệm vụ chiến lược vừa thường xuyên lâu dài"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Một trong những nhiệm vụ bảo vệ an ninh chính trị, kinh tế, văn hóa, tư tưởng?",
+    "options": {
+      "a": "Việt Nam là bạn, là đối tác tin cậy và thành viên có trách nhiệm của cộng đồng quốc tế",
+      "b": "Bảo vệ an ninh tư tưởng là một nội dung quan trọng của bảo vệ văn hóa và chế độ xã hội chủ nghĩa",
+      "c": "Tăng cường đổi mới và nâng cao chất lượng công tác hội nhập quốc tế về bảo vệ an ninh chính trị, kinh tế, văn hóa, tư tưởng",
+      "d": "Cách mạng, chính quy, tinh nhuệ, từng bước hiện đại"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Một trong những giải pháp cơ bản bảo vệ an ninh chính trị, kinh tế, văn hóa, tư tưởng?",
+    "options": {
+      "a": "Thường xuyên cảnh giác, kịp thời đập tan mọi âm mưu và hành động xâm phạm độc lập, chủ quyền, toàn vẹn lãnh thổ Tổ quốc",
+      "b": "Nâng cao chất lượng tổng hợp, sức chiến đấu để lực lượng vũ trang thật sự là lực lượng chính trị trong sạch, vững mạnh",
+      "c": "Xây dựng công nghiệp quốc phòng trong hệ thống công nghiệp quốc gia dưới sự chỉ đạo, quản lý điều hành trực tiếp của Chính phủ",
+      "d": "Cần thống nhất nhận thức trong toàn Đảng, toàn quân, toàn dân về công tác bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Một trong những giải pháp cơ bản bảo vệ an ninh chính trị, kinh tế, văn hóa, tư tưởng?",
+    "options": {
+      "a": "Thường xuyên chăm lo xây dựng Đảng, tăng cường sự lãnh đạo của Đảng đối với quân đội và công an, đối với sự nghiệp cùng cố quốc phòng và an ninh",
+      "b": "Bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng là duy trì trật tự, kỷ cương, an toàn xã hội",
+      "c": "Giữ vững nền tảng tư tưởng chủ nghĩa Mác – Lê Nin, tư tưởng Hồ Chí Minh; bảo vệ đường lối của Đảng",
+      "d": "Tăng cường công tác lãnh đạo các hoạt động báo chí, xuất bản phát thanh, truyền hình..."
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Một trong những giải pháp cơ bản bảo vệ an ninh chính trị, kinh tế, văn hóa, tư tưởng?",
+    "options": {
+      "a": "Thường xuyên chăm lo xây dựng Đảng, tăng cường sự lãnh đạo của Đảng đối với quân đội và công an, đối với sự nghiệp cùng cố quốc phòng và an ninh",
+      "b": "Sự nghiệp công nghiệp hóa, hiện đại hóa đất nước đang đặt ra những nhiệm vụ hết sức nặng nề",
+      "c": "Mỗi cán bộ, Đảng viên, nhân dân và thanh niên cần nhận thức đầy đủ tầm quan trọng của nhiệm vụ chiến lược bảo vệ Tổ quốc, nêu cao cảnh giác",
+      "d": "Các cơ quan chức năng cần phát huy vai trò nòng cốt trong việc tham mưu cho Đảng..."
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Việt Nam nộp đơn gia nhập WTO năm nào?",
+    "options": {
+      "a": "1994",
+      "b": "1995",
+      "c": "1996",
+      "d": "1997"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Việt Nam là thành viên chính thức của WTO năm nào?",
+    "options": {
+      "a": "2005",
+      "b": "2006",
+      "c": "2007",
+      "d": "2008"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Hai nhiệm vụ chiến lược của cách mạng Việt Nam là gì?",
+    "options": {
+      "a": "Thực hiện mục tiêu dân giàu, nước mạnh, dân chủ, văn minh",
+      "b": "Xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa",
+      "c": "Đẩy mạnh sự nghiệp công nghiệp hóa, hiện đại hóa đất nước",
+      "d": "Xây dựng và bảo vệ chủ quyền biển đảo quốc gia"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Phương châm trong công tác đối ngoại của nước ta hiện nay theo nghị quyết đại hội XII của Đảng?",
+    "options": {
+      "a": "Việt Nam là bạn, là đối tác tin cậy và thành viên có trách nhiệm của cộng đồng quốc tế",
+      "b": "Công an nhân dân",
+      "c": "Việt Nam sẽ là bạn, là thành viên của cộng đồng quốc tế",
+      "d": "Việt Nam muốn là bạn, là đối tác tin cậy của cộng đồng quốc tế"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Việt Nam đã hoàn thành một bước phân giới cắm mốc trên đất liền với nước nào?",
+    "options": {
+      "a": "Trung Quốc",
+      "b": "Campuchia",
+      "c": "Lào",
+      "d": "Thái Lan"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Việt Nam đang đàm phán phân định vùng biển ngoài cửa Vịnh Bắc Bộ với nước nào?",
+    "options": {
+      "a": "Trung Quốc",
+      "b": "Campuchia",
+      "c": "Lào",
+      "d": "Thái Lan"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Nội dung nào sau đây không phải là một trong những quan điểm cơ bản của Đảng về bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng?",
+    "options": {
+      "a": "Công an nhân dân",
+      "b": "Sự nghiệp công nghiệp hóa, hiện đại hóa đất nước đang đặt ra những nhiệm vụ hết sức nặng nề",
+      "c": "Việt Nam là bạn, là đối tác tin cậy và thành viên có trách nhiệm của cộng đồng quốc tế",
+      "d": "Sức mạnh bảo vệ Tổ quốc là sức mạnh tổng hợp của khối đại đoàn kết toàn dân..."
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Nội dung nào sau đây không phải là một trong những quan điểm cơ bản của Đảng về bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng?",
+    "options": {
+      "a": "Sự nghiệp công nghiệp hóa, hiện đại hóa đất nước đang đặt ra những nhiệm vụ hết sức nặng nề",
+      "b": "Quân đội nhân dân",
+      "c": "Tiếp tục đổi mới và nâng cao chất lượng công tác giáo dục, bồi dưỡng kiến thức...",
+      "d": "Xây dựng nền quốc phòng toàn dân..."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Nội dung nào sau đây không phải là một trong những giải pháp cơ bản bảo vệ an ninh chính trị, kinh tế, văn hóa, tư tưởng?",
+    "options": {
+      "a": "Quan tâm chỉ đạo và tổ chức thường xuyên công tác giáo dục chính trị...",
+      "b": "Cần thống nhất nhận thức trong toàn Đảng, toàn quân, toàn dân về công tác bảo vệ...",
+      "c": "Việt Nam là bạn, là đối tác tin cậy và thành viên có trách nhiệm của cộng đồng quốc tế",
+      "d": "Bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng là bảo vệ Đảng..."
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Nội dung nào sau đây không phải là một trong những giải pháp cơ bản bảo vệ an ninh chính trị, kinh tế, văn hóa, tư tưởng?",
+    "options": {
+      "a": "Công an nhân dân",
+      "b": "Sự nghiệp công nghiệp hóa, hiện đại hóa đất nước đang đặt ra những nhiệm vụ hết sức nặng nề",
+      "c": "Việt Nam là bạn, là đối tác tin cậy và thành viên có trách nhiệm của cộng đồng quốc tế"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Một trong những quan điểm của Đảng về chiến tranh nhân dân bảo vệ Tổ quốc?",
+    "options": {
+      "a": "Kết hợp tác chiến của lực lượng vũ trang địa phương với tác chiến của các binh đoàn chủ lực, binh đoàn cơ động",
+      "b": "Trong chiến tranh tương lai, địch vẫn dựa vào vũ khí trang bị hiện đại, tiềm lực kinh tế, quân sự hơn chúng ta...",
+      "c": "Thực hiện toàn dân đánh giặc phải lấy lực lượng vũ trang ba thứ quân làm nòng cốt...",
+      "d": "Tiến hành chiến tranh nhân dân, toàn dân đánh giặc lấy lực lượng vũ trang nhân dân làm nòng cốt. Kết hợp tác chiến của lực lượng vũ trang địa phương với tác chiến của các binh đoàn chủ lực"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Một trong những quan điểm của Đảng về chiến tranh nhân dân bảo vệ Tổ quốc?",
+    "options": {
+      "a": "Kết hợp tác chiến của lực lượng vũ trang địa phương với tác chiến của các binh đoàn chủ lực, binh đoàn cơ động",
+      "b": "Trong chiến tranh tương lai, địch vẫn dựa vào vũ khí trang bị hiện đại, tiềm lực kinh tế, quân sự hơn chúng ta nhằm thực hiện chiến lược “đánh nhanh, giải quyết nhanh”",
+      "c": "Thực hiện toàn dân đánh giặc phải lấy lực lượng vũ trang ba thứ quân làm nòng cốt",
+      "d": "Tiến hành chiến tranh toàn diện, kết hợp chặt chẽ giữa đấu tranh quân sự, chính trị, ngoại giao, kinh tế, văn hóa và tư tưởng, lấy đấu tranh quân sự là chủ yếu..."
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Một trong những quan điểm của Đảng về chiến tranh nhân dân bảo vệ Tổ quốc?",
+    "options": {
+      "a": "Không ngừng chăm lo xây dựng lực lượng vũ trang cách mạng, chính quy, tinh nhuệ, từng bước hiện đại, lấy xây dựng vững mạnh về chính trị làm cơ sở",
+      "b": "Thực hiện toàn dân đánh giặc phải lấy lực lượng vũ trang ba thứ quân làm nòng cốt",
+      "c": "Đảng phải có đường lối chiến lược, sách lược đúng đắn tạo thế và lực...",
+      "d": "Chuẩn bị mọi mặt trên cả nước cũng như khu vực để đủ sức đánh địch được lâu dài, ra sức thu hẹp không gian, rút ngắn thời gian của chiến tranh giành thắng lợi càng sớm càng tốt"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Một trong những quan điểm của Đảng về chiến tranh nhân dân bảo vệ Tổ quốc?",
+    "options": {
+      "a": "Tăng cường giáo dục quốc phòng an ninh cho mọi tầng lớp nhân dân, nhất là thế hệ trẻ và sinh viên nói riêng",
+      "b": "Đảng phải có đường lối chiến lược, sách lược đúng đắn tạo thế và lực...",
+      "c": "Thực hiện toàn dân đánh giặc phải lấy lực lượng vũ trang ba thứ quân làm nòng cốt",
+      "d": "Kết hợp kháng chiến với xây dựng, vừa kháng chiến vừa xây dựng, ra sức sản xuất thực hành tiết kiệm giữ gìn và bồi dưỡng lực lượng ta càng đánh càng mạnh"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Một trong những quan điểm của Đảng về chiến tranh nhân dân bảo vệ Tổ quốc?",
+    "options": {
+      "a": "Thực hiện toàn dân đánh giặc phải lấy lực lượng vũ trang ba thứ quân làm nòng cốt, bao gồm bộ đội chủ lực, bộ đội địa phương, dân quân tự vệ",
+      "b": "Không ngừng chăm lo xây dựng lực lượng vũ trang cách mạng...",
+      "c": "Đấu tranh trên lĩnh vực kinh tế để phá hoại kinh tế của địch...",
+      "d": "Kết hợp đấu tranh quân sự với bảo đảm an ninh chính trị..."
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Một trong những quan điểm của Đảng về chiến tranh nhân dân bảo vệ Tổ quốc?",
+    "options": {
+      "a": "Đấu tranh trên lĩnh vực kinh tế để phá hoại kinh tế của địch, bảo vệ kinh tế của ta bảo vệ sản xuất và ổn định đời sống nhân dân"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Mặt trận nào có ý nghĩa quyết định nhất trong chiến tranh?",
+    "options": {
+      "a": "Mặt trận kinh tế",
+      "b": "Mặt trận ngoại giao",
+      "c": "Mặt trận chính trị",
+      "d": "Mặt trận quân sự"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Chiến tranh nhân dân nhằm chống lại hành động xâm lược, phá hoại trên mặt trận nào?",
+    "options": {
+      "a": "Kinh tế",
+      "b": "Chính trị",
+      "c": "Văn hóa",
+      "d": "Mọi mặt"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Thực hiện toàn dân đánh giặc phải lấy lực lượng nào làm nòng cốt?",
+    "options": {
+      "a": "lực lượng quân đội",
+      "b": "lực lượng vũ trang ba thứ quân",
+      "c": "lực lượng công an",
+      "d": "lực lượng dân quân tự vệ"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Mặt trận đấu tranh nào dưới đây là hình thức cơ bản, giữ vai trò quyết định trực tiếp tiêu hao, tiêu diệt lực lượng quân sự của địch?",
+    "options": {
+      "a": "Mặt trận quân sự",
+      "b": "Mặt trận ngoại giao",
+      "c": "Mặt trận kinh tế",
+      "d": "Mặt trận tư tưởng, văn hóa"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Theo quan điểm của Đảng ta, yếu tố nào sau đây quyết định thắng lợi trên chiến trường?",
+    "options": {
+      "a": "Con người và vũ khí trang bị",
+      "b": "Vũ khí trang bị hiện đại, trình độ huấn luyện và thể lực",
+      "c": "Vũ khí hiện đại, trình độ ứng dụng khoa học và nghệ thuật quân sự",
+      "d": "Trình độ tổ chức chỉ huy của cán bộ các cấp"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Xác định thái độ của chúng ta đối với chiến tranh?",
+    "options": {
+      "a": "Phản đối tất cả các cuộc chiến tranh",
+      "b": "Ủng hộ các cuộc chiến tranh chống áp bức, nô dịch",
+      "c": "Phản đối các cuộc chiến tranh phản cách mạng",
+      "d": "Ủng hộ chiến tranh chính nghĩa, phản đối chiến tranh phi nghĩa"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Thế trận chiến tranh nhân dân là gì?",
+    "options": {
+      "a": "Sự tổ chức, bố trí lực lượng đánh giặc",
+      "b": "Sự tổ chức, bố trí lực lượng để tiến hành chiến tranh và hoạt động tác chiến",
+      "c": "Sự tổ chức, bố trí lực lượng chiến đấu trên chiến trường khắp cả nước",
+      "d": "Sự tổ chức, bố trí lực lượng phòng thủ đất nước"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Một trong những nội dung chủ yếu của chiến tranh nhân dân bảo vệ Tổ quốc?",
+    "options": {
+      "a": "Vũ khí hiện đại, trình độ ứng dụng khoa học và nghệ thuật quân sự",
+      "b": "Chống chiến tranh xâm lược với chống khủng bố",
+      "c": "Phối hợp chặt chẽ chống quân địch tiến công từ bên ngoài vào và bạo loạn lật đổ từ bên trong",
+      "d": "Chống bạo loạn với trấn áp bọn phản động trong nước cấu kết với nước ngoài"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Một trong những nội dung chủ yếu của chiến tranh nhân dân bảo vệ Tổ quốc?",
+    "options": {
+      "a": "Phản đối tất cả các cuộc chiến tranh",
+      "b": "Tổ chức thế trận chiến tranh nhân dân",
+      "c": "Cuộc chiến tranh vì chủ nghĩa xã hội",
+      "d": "Sự tổ chức, bố trí lực lượng đánh giặc"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Lực lượng vũ trang nhân dân gồm các lực lượng nào?",
+    "options": {
+      "a": "Quân đội nhân dân, Công an nhân dân, Dân quân tự vệ",
+      "b": "Quân đội nhân dân, Công an nhân dân, Cảnh sát biển",
+      "c": "Quân đội nhân dân, Bộ đội Biên phòng, Cảnh sát biển",
+      "d": "Công an Nhân dân Việt Nam, An ninh Nhân dân"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Cảnh sát biển Việt Nam trực thuộc lực lượng nào?",
+    "options": {
+      "a": "Quân đội Nhân dân Việt Nam",
+      "b": "Công an Nhân dân Việt Nam",
+      "c": "Dân quân tự vệ",
+      "d": "An ninh Nhân dân"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Ngày truyền thống của lực lượng Dân quân tự vệ là ngày nào?",
+    "options": {
+      "a": "Ngày 28 tháng 3",
+      "b": "Ngày 22 tháng 12",
+      "c": "Ngày 27 tháng 7",
+      "d": "Ngày 27 tháng 3"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Một trong những đặc điểm liên quan đến xây dựng lực lượng vũ trang Nhân dân Việt Nam là gì?",
+    "options": {
+      "a": "Cả nước đang thực hiện hai nhiệm vụ chiến lược xây dựng và bảo vệ Tổ quốc XHCN, trong khi chủ nghĩa đế quốc và các thế lực thù địch chống phá ta quyết liệt",
+      "b": "Cả nước đang thực hiện hai nhiệm vụ chiến lược xây dựng và bảo vệ Tổ quốc XHCN, trong điều kiện các nước lớn luôn ủng hộ ta hết mình",
+      "c": "Cả nước đang thực hiện hai nhiệm vụ chiến lược xây dựng và bảo vệ Tổ quốc XHCN, trong điều kiện các nước đế quốc và thế lực thù địch đã xem Việt Nam là bạn",
+      "d": "Cả nước đang thực hiện hai nhiệm vụ chiến lược xây dựng và bảo vệ Tổ quốc XHCN"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Hãy chọn quan điểm đúng?",
+    "options": {
+      "a": "Đảng cộng sản Việt Nam độc tôn duy nhất lãnh đạo lực lượng vũ trang nhân dân",
+      "b": "Nhà nước Việt Nam độc tôn duy nhất lãnh đạo lực lượng vũ trang nhân dân",
+      "c": "Chính phủ Việt Nam độc tôn duy nhất lãnh đạo lực lượng vũ trang nhân dân",
+      "d": "Nhân dân Việt Nam độc tôn duy nhất lãnh đạo lực lượng vũ trang nhân dân"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Một trong những quan điểm, nguyên tắc cơ bản xây dựng lực lượng vũ trang nhân dân trong thời kỳ mới là gì?",
+    "options": {
+      "a": "Giữ vững và tăng cường sự lãnh đạo của Đảng Cộng Sản Việt Nam đối với lực lượng vũ trang nhân dân",
+      "b": "Giữ vững và tăng cường sự quản lý của Đảng Cộng Sản Việt Nam đối với lực lượng vũ trang nhân dân",
+      "c": "Giảm bớt vai trò lãnh đạo của Đảng Cộng Sản Việt Nam đối với lực lượng vũ trang nhân dân",
+      "d": "Giữ vững và tăng cường sự quản lý của Nhà nước đối với lực lượng vũ trang nhân dân"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Một trong những quan điểm, nguyên tắc cơ bản xây dựng lực lượng vũ trang nhân dân trong thời kỳ mới là gì?",
+    "options": {
+      "a": "Xây dựng lực lượng vũ trang nhân dân lấy chất lượng là chính, lấy xây dựng chính trị làm cơ sở",
+      "b": "Xây dựng lực lượng vũ trang nhân dân lấy chất lượng là chính, lấy số lượng làm cơ sở",
+      "c": "Xây dựng lực lượng vũ trang nhân dân lấy số lượng là chính, lấy chất lượng làm cơ sở",
+      "d": "Xây dựng lực lượng vũ trang nhân dân lấy số lượng là chính"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Một trong những quan điểm, nguyên tắc cơ bản xây dựng lực lượng vũ trang nhân dân trong thời kỳ mới là gì?",
+    "options": {
+      "a": "Bảo đảm lực lượng vũ trang Nhân dân luôn trong tư thế sẵn sàng chiến đấu và chiến đấu thắng lợi",
+      "b": "Bảo đảm lực lượng vũ trang Nhân dân luôn huấn luyện giỏi",
+      "c": "Bảo đảm lực lượng vũ trang Nhân dân có sức cơ động cao",
+      "d": "Bảo đảm lực lượng vũ trang Nhân dân có sức cơ động cao, sức khỏe tốt"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Một trong những phương hướng xây dựng lực lượng vũ trang Nhân dân trong giai đoạn mới là gì?",
+    "options": {
+      "a": "Xây dựng Lực lượng dự bị động viên hùng hậu, được huấn luyện và quản lý tốt, bảo đảm khi cần thiết có thể động viên nhanh theo kế hoạch",
+      "b": "Xây dựng Lực lượng dự bị động viên đông đảo, được huấn luyện và quản lý tốt, bảo đảm khi cần thiết có thể động viên nhanh theo kế hoạch",
+      "c": "Xây dựng Lực lượng dự bị động viên chất lượng, được huấn luyện và quản lý tốt, bảo đảm khi cần thiết có thể động viên nhanh theo kế hoạch",
+      "d": "Xây dựng Lực lượng dự bị động viên chất lượng, được huấn luyện và quản lý tốt"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Lực lượng dự bị động viên gồm những thành phần nào?",
+    "options": {
+      "a": "Quân nhân dự bị và phương tiện kỹ thuật dự bị",
+      "b": "Quân nhân chuyên nghiệp và phương tiện kỹ thuật dự bị",
+      "c": "Sĩ quan dự bị và phương tiện kỹ thuật dự bị",
+      "d": "Quân nhân dự bị và phương tiện chiến đấu"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "“Vì nước quên thân, vì dân phục vụ” là lý tưởng của lực lượng nào?",
+    "options": {
+      "a": "Quân đội Nhân dân Việt Nam",
+      "b": "Công an Nhân dân Việt Nam",
+      "c": "Dân quân tự vệ",
+      "d": "Dự bị động viên"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Một trong những đặc điểm liên quan đến xây dựng lực lượng vũ trang Nhân dân Việt Nam là gì?",
+    "options": {
+      "a": "Sự nghiệp đổi mới đã đạt được một vài thành tựu, đất nước ta đang bước sang thời kỳ đẩy mạnh công nghiệp hóa, hiện đại hóa và hội nhập kinh tế thế giới toàn diện hơn",
+      "b": "Sự nghiệp đổi mới đã đạt được những thành tựu to lớn, đất nước ta đang bước sang thời kỳ đẩy mạnh công nghiệp hóa, hiện đại hóa và hội nhập kinh tế thế giới toàn diện hơn",
+      "c": "Đất nước ta đang gặp khó khăn trong thời kỳ đẩy mạnh công nghiệp hóa, hiện đại hóa và hội nhập kinh tế thế giới toàn diện hơn",
+      "d": "Sự nghiệp đổi mới đã đạt được những thành tựu to lớn"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Một trong những quan điểm, nguyên tắc cơ bản xây dựng lực lượng vũ trang nhân dân trong thời kỳ mới là gì?",
+    "options": {
+      "a": "Liên minh, liên kết để xây dựng lực lượng vũ trang nhân dân",
+      "b": "Tự lực, tự cường xây dựng lực lượng vũ trang nhân dân",
+      "c": "Tự cấp, tự túc xây dựng lực lượng vũ trang nhân dân",
+      "d": "Liên minh để xây dựng lực lượng vũ trang nhân dân"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Một trong những biện pháp chủ yếu xây dựng lực lượng vũ trang Nhân dân trong giai đoạn mới là gì?",
+    "options": {
+      "a": "Tổ chức các đơn vị phải có sức chiến đấu cao Có số lượng phù hợp, chất lượng tốt; phù hợp với tình hình cụ thể ở từng địa phương, khu vực và thế trận cả nước",
+      "b": "Tổ chức các đơn vị phải gọn, mạnh, cơ động; có sức chiến đấu cao Có số lượng phù hợp, chất lượng tốt; phù hợp với tình hình cụ thể ở từng địa phương, khu vực và thế trận cả nước",
+      "c": "Tổ chức các đơn vị phải có số lượng phù hợp, chất lượng tốt; phù hợp với tình hình cụ thể ở từng địa phương, khu vực và thế trận cả nước"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Một trong những biện pháp chủ yếu xây dựng lực lượng vũ trang Nhân dân trong giai đoạn mới là gì?",
+    "options": {
+      "a": "Nâng cao chất lượng rèn luyện, xây dựng lực lượng vũ trang Nhân dân có sức khỏe dồi dào",
+      "b": "Nâng cao chất lượng huấn luyện, giáo dục, xây dựng phát triển khoa học quân sự và công an",
+      "c": "Nâng cao chất lượng giáo dục, đào tạo, phát triển khoa học, nghệ thuật quân sự",
+      "d": "Nâng cao chất lượng giáo dục, đào tạo, phát triển khoa học, công nghệ"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Một trong những biện pháp chủ yếu xây dựng lực lượng vũ trang Nhân dân trong giai đoạn mới là gì?",
+    "options": {
+      "a": "Nhanh chóng giải quyết yêu cầu về vũ khí, trang bị kỹ thuật của lực lượng vũ trang Nhân dân",
+      "b": "Từng bước giải quyết yêu cầu về vũ khí, trang bị kỹ thuật của lực lượng vũ trang Nhân dân",
+      "c": "Ngay lập tức giải quyết yêu cầu về vũ khí, trang bị kỹ thuật của lực lượng vũ trang Nhân dân",
+      "d": "Nhanh chóng giải quyết yêu cầu về trang bị kỹ thuật của lực lượng vũ trang Nhân dân"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Có bao nhiêu biện pháp chủ yếu xây dựng lực lượng vũ trang Nhân dân trong giai đoạn mới?",
+    "options": {
+      "a": "4",
+      "b": "5",
+      "c": "6",
+      "d": "7"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Lực lượng vũ trang Nhân dân Việt Nam tuyệt đối trung thành với ai?",
+    "options": {
+      "a": "Tổ quốc, công nhân, nông dân",
+      "b": "Tổ quốc, Nhân dân",
+      "c": "Tổ quốc, Nhân dân, Đảng, Nhà nước",
+      "d": "Tất cả đều sai"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Quân đội Nhân dân Việt Nam gồm các lực lượng nào?",
+    "options": {
+      "a": "Chiến đấu, xây dựng",
+      "b": "Chiến đấu, hậu cần",
+      "c": "Thường trực, Dự bị động viên",
+      "d": "Sẵn sàng chiến đấu, chiến đấu"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Ngày truyền thống của Quân đội Nhân dân Việt Nam là ngày nào?",
+    "options": {
+      "a": "Ngày 22 tháng 11",
+      "b": "Ngày 02 tháng 12",
+      "c": "Ngày 22 tháng 12",
+      "d": "Ngày 12 tháng 12"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Ngày truyền thống của Công an Nhân dân Việt Nam là ngày nào?",
+    "options": {
+      "a": "Ngày 18 tháng 9",
+      "b": "Ngày 18 tháng 8",
+      "c": "Ngày 19 tháng 8",
+      "d": "Ngày 17 tháng 8"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Lực lượng nào được mệnh danh là “Lực lượng vô địch” trong lực lượng vũ trang Nhân dân Việt Nam?",
+    "options": {
+      "a": "Quân đội Nhân dân Việt Nam",
+      "b": "Công an Nhân dân Việt Nam",
+      "c": "Dân quân tự vệ",
+      "d": "Hải quân Nhân dân Việt Nam"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Lực lượng nào được mệnh danh là “Bức tường sắt của Tổ quốc”?",
+    "options": {
+      "a": "Công an Nhân dân Việt Nam",
+      "b": "Quân đội Nhân dân Việt Nam",
+      "c": "Dân quân tự vệ",
+      "d": "Hải quân Nhân dân Việt Nam"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Một trong những đặc điểm liên quan đến xây dựng lực lượng vũ trang Nhân dân Việt Nam là gì?",
+    "options": {
+      "a": "Xây dựng lực lượng vũ trang Nhân dân trong điều kiện quốc tế ổn định",
+      "b": "Xây dựng lực lượng vũ trang Nhân dân trong điều kiện quốc tế đã thay đổi, toàn cầu hóa ngày càng sâu rộng",
+      "c": "Xây dựng lực lượng vũ trang Nhân dân trong điều kiện quốc tế đã thay đổi, có những diễn biến phức tạp"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Nguyên tắc Đảng Cộng sản Việt Nam lãnh đạo lực lượng vũ trang Nhân dân là gì?",
+    "options": {
+      "a": "Trực tiếp, tuyệt đối, về mọi mặt",
+      "b": "Tuyệt đối, trực tiếp về một số mặt",
+      "c": "Tuyệt đối, trực tiếp về mọi mặt",
+      "d": "Tuyệt đối, về mọi mặt"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Một trong những phương hướng xây dựng lực lượng vũ trang Nhân dân trong giai đoạn mới là gì?",
+    "options": {
+      "a": "Xây dựng quân đội và công an nhân dân chính quy, tinh nhuệ, từng bước hiện đại",
+      "b": "Xây dựng quân đội và công an nhân dân hùng mạnh, chính quy, tinh nhuệ, từng bước hiện đại",
+      "c": "Xây dựng quân đội và công an nhân dân cách mạng, chính quy, tinh nhuệ, từng bước hiện đại",
+      "d": "Xây dựng quân đội và công an nhân dân dân chính quy, tinh nhuệ"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Một trong những phương hướng xây dựng lực lượng vũ trang Nhân dân trong giai đoạn mới là gì?",
+    "options": {
+      "a": "Dân quân tự vệ được xây dựng rộng rãi",
+      "b": "Dân quân tự vệ được xây dựng rộng lớn",
+      "c": "Dân quân tự vệ được xây dựng rộng khắp",
+      "d": "Dân quân tự vệ được xây dựng nhiều nơi"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Một trong những biện pháp chủ yếu xây dựng lực lượng vũ trang Nhân dân trong giai đoạn mới là gì?",
+    "options": {
+      "a": "Xây dựng đội ngũ cán bộ lực lượng vũ trang có phẩm chất đạo đức tốt",
+      "b": "Xây dựng đội ngũ cán bộ lực lượng vũ trang giỏi về công nghệ thông tin",
+      "c": "Xây dựng đội ngũ cán bộ lực lượng vũ trang có phẩm chất năng lực tốt",
+      "d": "Xây dựng đội ngũ cán bộ lực lượng vũ trang có tác phong nhanh nhẹn"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Một trong những biện pháp chủ yếu xây dựng lực lượng vũ trang Nhân dân trong giai đoạn mới là gì?",
+    "options": {
+      "a": "Thực hiện chính sách của Đảng, Nhà nước đối với lực lượng vũ trang Nhân dân",
+      "b": "Thực hiện nghiêm túc và đầy đủ các chính sách hậu phương đối với lực lượng vũ trang Nhân dân",
+      "c": "Thực hiện nghiêm túc và đầy đủ các chính sách của Đảng, Nhà nước đối với lực lượng vũ trang Nhân dân"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Quân nhân dự bị bao gồm những thành phần nào?",
+    "options": {
+      "a": "Sĩ quan dự bị, quân nhân chuyên nghiệp và hạ sĩ quan dự bị",
+      "b": "Sĩ quan dự bị, quân nhân chuyên nghiệp và hạ sĩ quan sĩ quan dự bị",
+      "c": "Quân nhân chuyên nghiệp dự bị và binh sĩ dự bị",
+      "d": "Sĩ quan dự bị, quân nhân chuyên nghiệp dự bị, hạ sĩ quan dự bị và binh sĩ dự bị"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Chủ thể kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh ở nước ta?",
+    "options": {
+      "a": "Nhà nước, nhân dân và quân đội",
+      "b": "Nhân dân và Quân đội",
+      "c": "Nhà nước và Nhân dân dưới sự lãnh đạo của Đảng",
+      "d": "Quân đội và công an"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Phương thức kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh ở nước ta?",
+    "options": {
+      "a": "Sự quản lý điều hành của Nhà nước",
+      "b": "Một thể thống nhất của từng địa phương trên phạm vi cả nước",
+      "c": "Sự gắn kết chặt chẽ, tích cực, chủ động tự giác giữa hoạt động kinh tế",
+      "d": "Là sự gắn kết chặt chẽ, tích cực, chủ động tự giác"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Một trong những nội dung kinh tế quyết định đến quốc phòng, an ninh nội dung nào?",
+    "options": {
+      "a": "Nguồn gốc ra đời, sức mạnh của quốc phòng, an ninh",
+      "b": "Quốc phòng, an ninh vững mạnh sẽ tạo môi trường hoà bình",
+      "c": "Hoạt động quốc phòng, an ninh tiêu tốn đáng kể một phần nguồn nhân lực",
+      "d": "Bảo đảm ổn định kinh tế vĩ mô, phấn đấu tăng trưởng kinh tế nhanh bền vững"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Một trong những nội dung kinh tế quyết định đến quốc phòng, an ninh nội dung nào?",
+    "options": {
+      "a": "Kinh tế quyết định tiêu dùng cho hoạt động quốc phòng, an ninh, một mặt, đặt ra cho nền kinh tế phải sản xuất ra sản phẩm",
+      "b": "Kinh tế quyết định đến việc cung cấp cơ sở vật chất kỹ thuật, nhân lực cho hoạt động quốc phòng, an ninh.",
+      "c": "Quốc phòng, an ninh vững mạnh sẽ tạo môi trường hoà bình, ổn định lâu dài",
+      "d": "Hoạt động quốc phòng, an ninh còn có thể dẫn đến huỷ hoại môi trường sinh thái"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Quốc phòng, an ninh tác động kinh tế, xã hội như thế nào?",
+    "options": {
+      "a": "Quốc phòng, an ninh quyết định đến việc cung cấp số lượng, chất lượng, nguồn nhân lực",
+      "b": "Quốc phòng, an ninh vững mạnh sẽ tạo môi trường hoà bình, ổn định lâu dài, tạo điều kiện thuận lợi cho phát triển kinh tế, xã hội",
+      "c": "Quốc phòng, an ninh vững mạnh đẩy mạnh, hỗ trợ, cơ cấu lại nền kinh tế gắn với đổi mới mô hình tăng trưởng",
+      "d": "Quốc phòng, an ninh thúc đẩy công nghiệp theo hướng hiện đại, sự nghiệp công nghiệp hóa, hiện đại hóa đất nước"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Một trong những nội dung kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh và đối ngoại ở nước ta hiện nay?",
+    "options": {
+      "a": "Kết hợp trong các vùng kinh tế trọng điểm, vùng biển đảo và biên giới",
+      "b": "Kết hợp trong xác định chiến lược phát triển kinh tế, xã hội",
+      "c": "Kết hợp trong khoa học - công nghệ, giáo dục",
+      "d": "Kết hợp mọi nguồn lực, mọi lực lượng của cả Trung ương và địa phương"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Một trong những nội dung kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh và đối ngoại ở nước ta hiện nay?",
+    "options": {
+      "a": "Kết hợp trong giao thông vận tải, bưu điện, y tế, khoa học - công nghệ, giáo dục",
+      "b": "Kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh trong lãnh thổ",
+      "c": "Kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh trong phát triển các vùng lãnh thổ",
+      "d": "Kết hợp mọi nguồn lực, mọi lực lượng của cả Trung ương và địa phương"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Một trong những nội dung kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh và đối ngoại ở nước ta hiện nay?",
+    "options": {
+      "a": "Kết hợp trong nông, lâm, ngư nghiệp, các vùng kinh tế trọng điểm, vùng biển đảo và biên giới",
+      "b": "Kết hợp phát triển kinh tế xã hội với tăng cường, củng cố quốc phòng, an ninh trong các ngành, các lĩnh vực kinh tế chủ yếu",
+      "c": "Kết hợp trong vùng núi biên giới, các vùng kinh tế trọng điểm, vùng biển đảo và biên giới",
+      "d": "Kết hợp mọi nguồn lực, mọi lực lượng của cả Trung ương và địa phương"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Một trong những nội dung kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh và đối ngoại ở nước ta hiện nay?",
+    "options": {
+      "a": "Kết hợp trong nông, lâm, ngư nghiệp, các vùng kinh tế trọng điểm",
+      "b": "Kết hợp trong giao thông vận tải, khoa học - công nghệ, giáo dục",
+      "c": "Kết hợp trong thực hiện nhiệm vụ chiến lược bảo vệ Tổ quốc",
+      "d": "Kết hợp mọi nguồn lực, mọi lực lượng của cả Trung ương và địa phương"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Một trong những nội dung kết hợp phát triển kinh tế, xã hội với tăng cường củng cố quốc phòng, an ninh và đối ngoại ở nước ta hiện nay?",
+    "options": {
+      "a": "Kết hợp trong vùng núi biên giới",
+      "b": "Kết hợp trong hoạt động đối ngoại",
+      "c": "Kết hợp trong công nghiệp",
+      "d": "Kết hợp mọi nguồn lực, mọi lực lượng"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Một trong những nội dung kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh và đối ngoại ở nước ta hiện nay trong xác định chiến lược phát triển kinh tế, xã hội thể hiện như thế nào?",
+    "options": {
+      "a": "Bảo đảm ổn định kinh tế vĩ mô, phấn đấu tăng trưởng kinh tế nhanh bền vững",
+      "b": "Kết hợp trong xây dựng chiến lược phát triển kinh tế xã hội với quốc phòng an ninh",
+      "c": "Kết hợp ngay từ khâu quy hoạch bố trí các đơn vị kinh tế của ngành công nghiệp",
+      "d": "Kết hợp phải nhằm khai thác có hiệu quả các tiềm năng, phát triển đa dạng các ngành"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Một trong những nội dung kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng; an ninh và đối ngoại ở nước ta hiện nay trong phát triển các vùng lãnh thổ thể hiện như thế nào?",
+    "options": {
+      "a": "Bảo đảm ổn định kinh tế cả nước, phấn đấu tăng trưởng kinh tế nhanh, bền vững",
+      "b": "Kết hợp trong xây dựng chiến lược, qui hoạch tổng thể phát triển kinh tế xã hội với quốc phòng an ninh của vùng cũng như trên địa bàn tỉnh, thành phố",
+      "c": "Đẩy mạnh thực hiện các đột phá chiến lược, cơ cấu lại nền kinh tế gắn với đổi mới mô hình tăng trưởng, nâng cao năng suất, hiệu quả và sức cạnh tranh",
+      "d": "Phát triển văn hoá, thực hiện dân chủ, tiến bộ, công bằng xã hội, bảo đảm an sinh xã hội"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Một trong những nội dung kết hợp phát triển kinh tế - xã hội với tăng cường, củng cố quốc phòng, an ninh và đối ngoại ở nước ta hiện nay trong công nghiệp thể hiện như thế nào?",
+    "options": {
+      "a": "Kết hợp phải nhằm khai thác có hiệu quả các tiềm năng, phát triển đa dạng các ngành",
+      "b": "Đẩy mạnh thực hiện các đột phá chiến lược, cơ cấu lại nền kinh tế gắn",
+      "c": "Đẩy mạnh sự nghiệp công nghiệp hóa, hiện đại hóa đất nước",
+      "d": "Kết hợp ngay từ khâu quy hoạch bố trí các đơn vị kinh tế của ngành công nghiệp"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Một trong những nội dung kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh và đối ngoại ở nước ta hiện nay trong công nghiệp thể hiện như thế nào?",
+    "options": {
+      "a": "Kết hợp phải nhằm khai thác có hiệu quả các tiềm năng, phát triển đa dạng các ngành",
+      "b": "Kết hợp trong nông, lâm, ngư nghiệp phải gắn với việc giải quyết tốt các vấn đề xã hội",
+      "c": "Bảo đảm ổn định kinh tế tế vĩ mô, phấn đấu tăng trưởng kinh tế nhanh bền vững",
+      "d": "Thực hiện chuyển giao công nghệ hai chiều, từ công nghiệp quốc phòng vào công nghiệp dân dụng và ngược lại"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Một trong những nội dung kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh và đối ngoại ở nước ta hiện nay trong nông, lâm, ngư nghiệp thể hiện như thế nào?",
+    "options": {
+      "a": "Bảo đảm ổn định kinh tế tế vĩ mô, phấn đấu tăng trưởng kinh tế nhanh bền vững, sự nghiệp công nghiệp hóa, hiện đại hóa đất nước",
+      "b": "Phát triển hệ thống phòng không công nghiệp và phát triển lực lượng dân quân tự vệ trong các xí nghiệp, công ty",
+      "c": "Kết hợp phải nhằm khai thác có hiệu quả các tiềm năng, phát triển đa dạng các ngành trong nông, lâm, ngư nghiệp theo hướng công nghiệp hoá, hiện đại hoá nông nghiệp, xây dựng nông thôn mới",
+      "d": "Đẩy mạnh thực hiện các đột phá chiến lược, cơ cấu lại nền kinh tế gắn với đổi mới mô hình tăng trưởng, nâng cao năng suất"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Một trong những nội dung kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh và đối ngoại ở nước ta hiện nay trong bưu chính viễn thông thể hiện như thế nào?",
+    "options": {
+      "a": "Phải kết hợp chặt chẽ giữa ngành bưu điện với ngành quân đội, công an để phát triển hệ thống thông tin quốc gia hiện đại",
+      "b": "Thực hiện chuyển giao công nghệ hai chiều, từ công nghiệp quốc phòng vào công nghiệp dân dụng",
+      "c": "Kết hợp trong nông, lâm, ngư nghiệp phải gắn với việc giải quyết tốt các vấn đề xã hội như xoá đói",
+      "d": "Có phương án thiết kế xây dựng và bảo vệ hệ thống thông tin liên lạc một cách vững chắc trong mọi tình huống"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Một trong những nội dung kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh và đối ngoại ở nước ta hiện nay trong bưu chính viễn thông thể hiện như thế nào?",
+    "options": {
+      "a": "Phải kết hợp chặt chẽ giữa ngành bưu điện với ngành quân đội, công an, dân quân",
+      "b": "Thực hiện chuyển giao công nghệ hai chiều, từ công nghiệp quốc phòng vào công nghiệp",
+      "c": "Xây dựng kế hoạch động viên thông tin liên lạc cho thời chiến",
+      "d": "Phát triển hệ thống thông tin đồng bộ, hiện đại"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Một trong những nội dung kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh và đối ngoại ở nước ta hiện nay trong giao thông vận tải thể hiện như thế nào?",
+    "options": {
+      "a": "Phải kết hợp chặt chẽ giữa ngành bưu điện quốc gia với ngành thông tin quân đội, công an để phát triển hệ thống thông tin quốc gia hiện đại",
+      "b": "Thực hiện chuyển giao công nghệ hai chiều, từ công nghiệp quốc phòng vào công nghiệp dân dụng, đẩy mạnh sự nghiệp công nghiệp hóa, hiện đại hóa đất nước",
+      "c": "Kết hợp trong nông, lâm, ngư nghiệp phải gắn với việc giải quyết tốt các vấn đề xã hội, phát triển đường sông, đường biển, xây dựng các cảng sông, cảng biển, bảo đảm đi lại, bốc dỡ thuận tiện.",
+      "d": "Phát triển hệ thống giao thông vận tải đồng bộ cả đường bộ, đường sắt, đường không, đường thuỷ, đáp ứng nhu cầu đi lại, vận chuyển hàng hoá trong nước và mở rộng giao lưu với bên ngoài"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Một trong những nội dung kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh trong lĩnh vực y tế thể hiện như thế nào?",
+    "options": {
+      "a": "Xây dựng mô hình quân dân y kết hợp trên các địa bàn, đặc biệt là ở miền núi, biên giới, hải đảo",
+      "b": "Phát triển hệ thống phòng không công nghiệp và phát triển lực lượng tự vệ",
+      "c": "Khi cấp phép đầu tư xây dựng cho các đối tác nước ngoài, phải có sự tham gia ý kiến của cơ quan quân sự có thẩm quyền",
+      "d": "Xây dựng, bổ sung, hoàn chỉnh các quy hoạch, kế hoạch chiến lược tổng thể quốc gia"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Một trong những nội dung kết hợp phát triển kinh tế - xã hội với tăng cường, củng cố quốc phòng, an ninh trong lĩnh vực y tế thể hiện như thế nào?",
+    "options": {
+      "a": "Xây dựng kế hoạch động viên y tế dân sự cho quân sự khi có chiến tranh xảy ra",
+      "b": "Phát triển nông, lâm, ngư nghiệp phải gắn với việc giải quyết tốt các vấn đề xã hội như xoá đòi",
+      "c": "Phải phối hợp chặt chẽ và toàn diện hoạt động giữa các ngành khoa học và công nghệ then chốt",
+      "d": "Xây dựng kế hoạch động viên thông tin liên lạc cho thời chiến"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Một trong những nội dung kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh và đối ngoại ở nước ta hiện nay trong xây dựng cơ bản thể hiện như thế nào?",
+    "options": {
+      "a": "Xây dựng kế hoạch động viên y tế dân sự cho quân sự khi có chiến tranh xảy ra",
+      "b": "Phát triển hệ thống phòng không công nghiệp và phát triển lực lượng tự vệ",
+      "c": "Khi cấp phép đầu tư xây dựng cho các đối tác nước ngoài, phải có sự tham gia ý kiến của cơ quan quân sự có thẩm quyền",
+      "d": "Xây dựng ngành bưu điện với ngành quân đội, công an để phát triển hệ thống thông tin quốc gia hiện đại"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Một trong những nội dung kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh và đối ngoại ở nước ta hiện nay trong lĩnh vực y tế thể hiện như thế nào?",
+    "options": {
+      "a": "Phát huy vai trò của y tế quân sự trong phòng chống, khám chữa bệnh cho nhân dân thời bình và thời chiến",
+      "b": "Phát triển hệ thống phòng không công nghiệp và phát triển lực lượng tự vệ",
+      "c": "Có phương án thiết kế xây dựng và bảo vệ hệ thống thông tin liên lạc một cách vững chắc",
+      "d": "Kết hợp trong nông, lâm, ngư nghiệp phải gắn với việc giải quyết tốt các vấn đề xã hội"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Một trong những nội dung kết hợp phát triển kinh tế - xã hội với tăng cường, củng cố quốc phòng, an ninh và đối ngoại ở nước ta hiện nay trong thực hiện nhiệm vụ chiến lược bảo vệ Tổ quốc thể hiện như thế nào?",
+    "options": {
+      "a": "Kết hợp trong nông, lâm, ngư nghiệp phải gắn với việc giải quyết tốt các vấn đề xã hội như xoá đói",
+      "b": "Tổ chức biên chế và bố trí lực lượng vũ trang phải phù hợp với điều kiện kinh tế và nhu cầu phòng thủ đất nước",
+      "c": "Phát triển hệ thống giao thông vận tải đồng bộ cả đường bộ, đường sắt, đường không, đường thuỷ",
+      "d": "Tập trung đầu tư phát triển một số ngành công nghiệp liên quan đến quốc phòng như cơ khí chế tạo"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Một trong những nội dung kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh và đối ngoại ở nước ta hiện nay trong thực hiện nhiệm vụ chiến lược bảo vệ Tổ quốc thể hiện như thế nào?",
+    "options": {
+      "a": "Kết hợp trong nông, lâm, ngư nghiệp phải gắn với việc giải quyết tốt các vấn đề xã hội như xoá đói",
+      "b": "Sử dụng tiết kiệm, hiệu quả nhân lực, tài chính, cơ sở vật chất kỹ thuật trong huấn luyện, chiến đấu và sẵn sàng chiến đấu của lực lượng vũ trang",
+      "c": "Phát triển hệ thống giao thông vận tải đồng bộ cả đường bộ, đường sắt, đường không, đường thuỷ",
+      "d": "Tập trung đầu tư phát triển một số ngành công nghiệp liên quan đến quốc phòng như cơ khí chế tạo"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Một trong những giải pháp chủ yếu thực hiện kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh ở Việt Nam hiện nay?",
+    "options": {
+      "a": "Vận dụng tính quy luật kinh tế, quốc phòng, an ninh và quán triệt quan điểm kết hợp của Đảng để định hướng chiến lược tổng thể",
+      "b": "Tăng cường sự lãnh đạo của đảng và hiệu lực quản lý nhà nước, của chính quyền các cấp trong thực hiện kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh",
+      "c": "Mọi chủ trương, đường lối chính sách của Đảng và Nhà nước phải được thể chế hoá thành luật pháp, pháp lệnh, nghị định",
+      "d": "Thường xuyên nghiên cứu bổ sung mở rộng thêm chức năng, nhiệm vụ của các cơ quan chuyên trách quản lý Nhà nước"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Một trong những giải pháp chủ yếu thực hiện kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh ở Việt Nam hiện nay?",
+    "options": {
+      "a": "Bồi dưỡng nâng cao kiến thức, kinh nghiệm kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh cho các đối tượng",
+      "b": "Vận dụng tính quy luật kinh tế, quốc phòng, an ninh và quán triệt quan điểm kết hợp của Đảng để định hướng chiến lược tổng thể",
+      "c": "Thường xuyên nghiên cứu bổ sung mở rộng thêm chức năng, nhiệm vụ của các cơ quan chuyên trách quản lý Nhà nước",
+      "d": "Việc phân bổ ngân sách đầu tư cho kết hợp phát triển kinh tế, xã hội gắn với tăng cường, củng cố quốc phòng, an ninh"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Một trong những giải pháp chủ yếu thực hiện kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh ở Việt Nam hiện nay?",
+    "options": {
+      "a": "Mọi chủ trương, đường lối chính sách của Đảng và Nhà nước phải được thể chế hoá thành luật pháp, pháp lệnh, nghị định",
+      "b": "Thường xuyên nghiên cứu bổ sung mở rộng thêm chức năng, nhiệm vụ của các cơ quan chuyên trách quản lý Nhà nước",
+      "c": "Xây dựng chiến lược tổng thể kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh trong thời kỳ mới",
+      "d": "Việc phân bổ ngân sách đầu tư cho kết hợp phát triển kinh tế, xã hội gắn với tăng cường, củng cố quốc phòng, an ninh"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Một trong những giải pháp chủ yếu thực hiện kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh ở Việt Nam hiện nay?",
+    "options": {
+      "a": "Hoàn chỉnh hệ thống pháp luật, cơ chế chính sách có liên quan đến thực hiện kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh trong tình hình mới",
+      "b": "Tiếp tục xây dựng, bổ sung, hoàn chỉnh các quy hoạch, kế hoạch chiến lược tổng thể quốc gia về kết hợp phát triển kinh tế với tăng cường, củng cố quốc phòng, an ninh",
+      "c": "Thường xuyên nghiên cứu bổ sung mở rộng thêm chức năng, nhiệm vụ của các cơ quan chuyên trách quản lý Nhà nước",
+      "d": "Kết hợp chặt chẽ giữa chấn chỉnh, kiện toàn tổ chức với chăm lo bồi dưỡng nâng cao năng lực và trách nhiệm"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Một trong những giải pháp chủ yếu thực hiện kết hợp phát triển kinh tế, xã hội với tăng cường, củng cố quốc phòng, an ninh ở Việt Nam hiện nay?",
+    "options": {
+      "a": "Củng cố kiện toàn và phát huy vai trò tham mưu của cơ quan chuyên trách quốc phòng, an ninh các cấp",
+      "b": "Tiếp tục xây dựng, hoàn chỉnh các kế hoạch chiến lược tổng thể quốc gia về kết hợp phát triển kinh tế với tăng cường, củng cố quốc phòng, an ninh"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Chiến tranh nhân dân bảo vệ Tổ quốc là gì?",
+    "options": {
+      "a": "Cuộc chiến tranh toàn dân, toàn diện, lấy lực lượng vũ trang nhân dân làm nòng cốt",
+      "b": "Cuộc chiến tranh do nhân dân tiến hành",
+      "c": "Cuộc chiến tranh chính nghĩa chống lại cuộc chiến tranh phi nghĩa",
+      "d": "Cuộc chiến tranh chống kẻ thù xâm lược"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Đối tượng trực tiếp của cách mạng nước ta là gì?",
+    "options": {
+      "a": "Tất cả những thế lực cản trở, xâm hại đến sự nghiệp xây dựng đất nước và bảo vệ Tổ quốc Việt Nam XHCN",
+      "b": "Tất cả các thế lực thù địch chống phá cách mạng",
+      "c": "Chủ nghĩa đế quốc và các thế lực thù địch",
+      "d": "Lực lượng phản động trong và ngoài nước"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Đối tượng tác chiến của quân và dân ta là?",
+    "options": {
+      "a": "Là những lực lượng gây diễn biến hòa bình, bạo loạn lật đổ, gây xung đột vũ trang và gây chiến tranh xâm lược",
+      "b": "Là những lực lượng gây bạo loạn lật đổ, gây xung đột vũ trang và gây chiến tranh xâm lược",
+      "c": "Là lực lượng bạo loạn lật đổ, gây xung đột vũ trang và gây chiến tranh xâm lược",
+      "d": "Là lực lượng phản động trong và ngoài nước"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Âm mưu, thủ đoạn chủ yếu của kẻ thù khi xâm lược nước ta là gì?",
+    "options": {
+      "a": "Âm mưu xóa bỏ chủ nghĩa xã hội trên đất nước ta là mục tiêu nhất quán của chủ nghĩa đế quốc và các thế lực thù địch",
+      "b": "Đẩy mạnh thực hiện chiến lược \"Diễn biến hòa bình\", bạo loạn lật đổ và khi điều kiện cho phép, chúng sẽ sẵn sàng tiến hành phát động chiến tranh.",
+      "c": "Thực hiện đánh nhanh, thắng nhanh, kết hợp tiến công quân sự từ bên ngoài vào với hành động bạo loạn lật đổ từ bên trong; đồng thời kết hợp với các biện pháp phi vũ trang để lừa bịp dư luận.",
+      "d": "Thực hiện đánh chắc, thắng nhanh, kết hợp tiến công quân sự từ bên ngoài vào với hành động phá hoại từ bên trong; đồng thời kết hợp với các biện pháp phi vũ trang để lừa bịp dư luận."
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Một trong những tính chất của chiến tranh nhân dân Việt Nam bảo vệ Tổ quốc là gì?",
+    "options": {
+      "a": "Là cuộc chiến tranh do nhân dân tiến hành",
+      "b": "Là cuộc chiến tranh nhân dân toàn dân, toàn diện",
+      "c": "Là cuộc chiến tranh công nghệ cao",
+      "d": "Cuộc chiến tranh vì chủ nghĩa xã hội"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Một trong những tính chất của chiến tranh nhân dân Việt Nam bảo vệ Tổ quốc là gì?",
+    "options": {
+      "a": "Là cuộc chiến tranh do nhân dân tiến hành",
+      "b": "Là cuộc chiến tranh chính nghĩa, tự vệ cách mạng",
+      "c": "Là cuộc chiến tranh phi nghĩa",
+      "d": "Là cuộc chiến tranh tự phát, tự vệ cách mạng"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Một trong những tính chất của chiến tranh nhân dân Việt Nam bảo vệ Tổ quốc?",
+    "options": {
+      "a": "Là cuộc chiến tranh công nghệ cao",
+      "b": "Là cuộc chiến tranh mang tính hiện đại",
+      "c": "Là cuộc chiến tranh do nhân dân tiến hành",
+      "d": "Cuộc chiến tranh vì nhân loại"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Một trong những đặc điểm của chiến tranh nhân dân Việt Nam bảo vệ Tổ quốc?",
+    "options": {
+      "a": "Chi phí chiến tranh công nghệ cao rất lớn, bảo đảm vật chất kỹ thuật tốn kém và gặp nhiều khó khăn",
+      "b": "Mục đích của chiến tranh là lợi ích của nhân dân lao động và chính quyền chúng nhân dân",
+      "c": "Chiến tranh nhân dân bảo vệ Tổ quốc trong điều kiện quốc tế có nhiều diễn biến phức tạp",
+      "d": "Địa hình thời tiết nước ta phức tạp nên vũ khí hiện đại của địch không thể triển khai và phát huy hiệu quả"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Một trong những đặc điểm của chiến tranh nhân dân Việt Nam bảo vệ Tổ quốc?",
+    "options": {
+      "a": "Cuộc chiến tranh xảy ra thì ta vẫn là một nước nhỏ phải lấy vũ khí, trang bị kém hiện đại chống lại kẻ thù",
+      "b": "Vì mục tiêu hạnh phúc của nhân dân lao động và sự nghiệp phát triển của đất nước",
+      "c": "Là cuộc chiến tranh được tiến hành với tinh thần độc lập, tự chủ, tự lực, tự cường",
+      "d": "Mục đích của chiến tranh là lợi ích của nhân dân lao động và nghĩa vụ của nhân dân lao động"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Một trong những đặc điểm của chiến tranh nhân dân Việt Nam bảo vệ Tổ quốc?",
+    "options": {
+      "a": "Địa hình thời tiết nước ta phức tạp nên vũ khí hiện đại của địch không thể triển khai và phát huy hiệu quả",
+      "b": "Mục đích bảo vệ Tổ quốc và nền độc lập của dân tộc",
+      "c": "Là cuộc chiến tranh diễn ra khẩn trương, quyết liệt và phức tạp ngay từ đầu và trong suốt quá trình chiến tranh",
+      "d": "Cuộc chiến tranh xảy ra thì ta vẫn là một nước nhỏ phải lấy vũ khí, trang bị kém hiện đại chống lại kẻ thù có vũ khí công nghệ cao"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Khi tiến hành chiến tranh xâm lược nước ta, địch sẽ gặp một trong những khó khăn gì?",
+    "options": {
+      "a": "Dân tộc ta có truyền thống yêu nước, chống xâm lược kiên cường bất khuất, sẽ làm cho chúng bị tổn thất nặng nề, đánh bại cuộc chiến tranh xâm lược của địch",
+      "b": "Khi tiến công thường trong giai đoạn đầu sẽ bao vây, phong tỏa, sau sẽ sử dụng hỏa lực đánh bất ngờ, ồ ạt",
+      "c": "Khi tiến công thường trong giai đoạn đầu sẽ bao vây, phong tỏa, sau sẽ sử dụng hỏa lực đánh bất ngờ",
+      "d": "Đối tượng tác chiến của quân và dân ta là những lực lượng gây bạo loạn lật đổ, gây xung đột vũ trang và gây chiến tranh xâm lược"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Khi tiến hành chiến tranh xâm lược nước ta, địch sẽ gặp một trong những khó khăn gì?",
+    "options": {
+      "a": "Có ưu thế tuyệt đối về sức mạnh quân sự, kinh tế và tiềm lực khoa học công nghệ",
+      "b": "Địa hình thời tiết nước ta phức tạp nên vũ khí hiện đại của địch không thể triển khai và phát huy hiệu quả",
+      "c": "Khi tiến công thường trong giai đoạn đầu sẽ bao vây, phong tỏa, sau sẽ sử dụng hỏa lực đánh bất ngờ, ồ ạt",
+      "d": "Khi tiến công thường trong giai đoạn đầu sẽ bao vây, phong tỏa, sau sẽ sử dụng hỏa lực đánh bất ngờ"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Khi tiến hành chiến tranh xâm lược nước ta, địch sẽ gặp một trong những khó khăn gì?",
+    "options": {
+      "a": "Có ưu thế tuyệt đối về sức mạnh quân sự, kinh tế và tiềm lực khoa học công nghệ",
+      "b": "Chi phí chiến tranh công nghệ cao rất lớn, bảo đảm vật chất kỹ thuật tốn kém và gặp nhiều khó khăn, nhất là khi chiến tranh kéo dài",
+      "c": "Khi tiến công thường trong giai đoạn đầu sẽ bao vây, phong tỏa, sau sẽ sử dụng hỏa lực đánh bất ngờ, ồ ạt",
+      "d": "Đối tượng tác chiến của quân và dân ta là những lực lượng gây bạo loạn lật đổ, gây xung đột vũ trang và gây chiến tranh xâm lược"
+    },
+    "answer": "b"
+  }
+]
